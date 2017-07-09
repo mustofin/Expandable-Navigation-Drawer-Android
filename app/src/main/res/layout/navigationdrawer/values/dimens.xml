@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="login_margin_horizontal">32dp</dimen>
+    <dimen name="login_margin_vertical">32dp</dimen>
+
+    <dimen name="login_drawableleft_edittext_width">5dp</dimen>
+    <dimen name="login_drawableleft_edittext_margin_right">10dp</dimen>
+    <dimen name="login_drawableleft_edittext_margin_bottom">6dp</dimen>
+
+    <dimen name="login_form_margin_bottom">20dp</dimen>
+
+    <!--FONT-->
+    <dimen name="login_font_title">25sp</dimen>
+    <dimen name="login_font_action">20sp</dimen>
+
+</resources>
